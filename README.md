@@ -18,7 +18,7 @@ Para ejecutar este proyecto, se requiere tener instalado:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/pizza-jat.git
+   git clone https://github.com/tu_usuario/pedir_pizza.git
 
 
 ## Instrucciones para Ejecutar el Proyecto
