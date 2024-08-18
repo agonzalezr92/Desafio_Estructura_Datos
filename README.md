@@ -19,3 +19,26 @@ Para ejecutar este proyecto, se requiere tener instalado:
 
    ```bash
    git clone https://github.com/tu_usuario/pizza-jat.git
+
+
+## Instrucciones para Ejecutar el Proyecto
+   python pizza_jat.py
+   Sigue las instrucciones en el menú interactivo para personalizar tu pizza.
+
+ ## Autor
+ Karen Limari
+Ámbar Zambrano
+Arlenis González
+
+## Licencia
+Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE.md para más detalles.
+
+### Notas:
+
+- Reemplaza `https://github.com/tu_usuario/pizza-jat.git` con la URL correcta del repositorio en GitHub.
+- Asegúrate de tener un archivo `LICENSE.md` en el repositorio si mencionas la Licencia MIT.
+- Guarda el contenido anterior en un archivo llamado `README.md` en el directorio raíz de tu proyecto para proporcionar una documentación clara sobre el mismo.
+
+
+   
+
